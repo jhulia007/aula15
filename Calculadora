@@ -1,4 +1,7 @@
 <html>
+    <cabeca>
+        <titulo>Calculadora</titulo>
+    </cabeca>
     <body>    
         <label>Valor 1</label>
         <input id="valor1"> <br><br>
